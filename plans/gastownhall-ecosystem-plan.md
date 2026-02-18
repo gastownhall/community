@@ -91,7 +91,7 @@ tl;dr: The goal of Gas Town Hall is to support the growing community around Stev
 
 🔧 SUPPORT (listening Channels — someone must be here)
 ├── #troubleshooting  — When things break (they will)
-└── #deacon-watch     — Watch out for the murderous Deacon and other anomalies
+└── #deacon-watch     — Watch out for the murderous Deacon and other AI anomalies
 
 💬 DISCUSSION (Helping each other)
 └── #introductions    — Who are you, what stage, what you're building
@@ -553,7 +553,7 @@ You're already in Cloudflare. Two paths:
 ## Appendix C: Discord Welcome Message
 
 ```markdown
-# Welcome to Gas Town Hall ⛽
+Hello [@username] and welcome to Gas Town Hall ⛽
 
 The unofficial community hub for Steve Yegge's Gas Town multi-agent orchestrator.
 
